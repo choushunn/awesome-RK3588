@@ -31,6 +31,7 @@ RK3588 is a chip released by [Rockchip](https://www.rock-chips.com/a/en/), which
 - [Yolov5 DeepSORT](https://github.com/Zhou-sx/yolov5_Deepsort_rknn) - Track vehicles and persons on rk3588 / rk3399pro.
 - [Yolov5 RK3588 Python](https://github.com/cluangar/YOLOv5-RK3588-Python) - Modify Code From rknn-toolkit2.
 - [RKNN multi threaded](https://github.com/leafqycc/rknn-multi-threaded) - Use multi-threaded asynchronous operation rknn model.
+- [scirknn](https://github.com/marty1885/scirknn) - Convert and run scikit-learn MLP classifier and regressor over rknn-toolkit2
 
 ## Resources
 
