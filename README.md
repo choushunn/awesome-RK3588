@@ -6,10 +6,10 @@ English | [简体中文](README_CN.md)
 
 > Useful resources for developing with the RK3588.:rocket:
 
+RK3588 is the flagship 8K SoC chip released by  [Rockchip](https://www.rock-chips.com/a/en/), which adopts ARM architecture and is mainly used for PCs, edge computing devices, personal mobile Internet devices, and other digital multimedia applications. RK3588 integrates four Cortex-A76 cores and four Cortex-A55 cores, as well as a separate NEON coprocessor, supporting 8K video codec and decoding.:tada:
 
-RK3588 is a chip released by [Rockchip](https://www.rock-chips.com/a/en/), which is mainly used in smart cockpits and ADAS products in the field of smart cars. :tada:
 
-## Contents
+## Contents🎯
 - [RKNN](#RKNN)
 
 - [Projects](#projects)
@@ -48,6 +48,10 @@ RK3588 is a chip released by [Rockchip](https://www.rock-chips.com/a/en/), which
 
 
 
-## Contributing
+## Contribute 🤝
 
-If you have any suggestions or find any bugs, feel free to open an issue or create a pull request.
+Got a pull request? Open it, and we'll review it as soon as possible. If you have any suggestions or find any bugs and feel free to bring your fresh ideas to the table!
+
+- [Open Issues](https://github.com/choushunn/awesome-RK3588/issues)
+- [Open Pull Requests](https://github.com/choushunn/awesome-RK3588/pulls)
+- [Open Discussions](https://github.com/choushunn/awesome-RK3588/discussions)

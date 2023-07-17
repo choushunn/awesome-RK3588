@@ -6,10 +6,10 @@
 
 > 项目收集了使用 RK3588 进行开发的有用资源。:rocket:
 
+RK3588是[Rockchip](https://www.rock-chips.com/a/en/)发布的8K旗舰SoC芯片，采用ARM架构，主要用于PC、边缘计算设备、个人移动互联网设备和其他数字多媒体应用。RK3588集成了四核Cortex-A76和四核Cortex-A55，以及单独的NEON协处理器，支持8K视频编解码。 :tada:
 
-RK3588是[Rockchip](https://www.rock-chips.com/a/en/)发布的一款高性能芯片，主要应用于智能汽车领域的智能座舱和ADAS产品。 :tada:
+## Contents🎯
 
-## Contents
 - [RKNN](#RKNN)
 
 - [Projects](#projects)
@@ -48,6 +48,11 @@ RK3588是[Rockchip](https://www.rock-chips.com/a/en/)发布的一款高性能芯
 
 
 
-## 贡献指南
+## 贡献指南 🤝
 
-如果您有任何建议或发现任何错误，请随时提出问题或创建拉取请求。
+有拉取请求吗？打开它，我们会尽快审核。如果您有任何建议或发现任何错误，请随时提出您的新想法！
+
+- [Open Issues](https://github.com/choushunn/awesome-RK3588/issues)
+- [Open Pull Requests](https://github.com/choushunn/awesome-RK3588/pulls)
+- [Open Discussions](https://github.com/choushunn/awesome-RK3588/discussions)
+
