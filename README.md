@@ -33,6 +33,7 @@ RK3588 is the flagship 8K SoC chip released by  [Rockchip](https://www.rock-chip
 - [Yolov5 DeepSORT](https://github.com/Zhou-sx/yolov5_Deepsort_rknn) - Track vehicles and persons on rk3588 / rk3399pro.
 - [Yolov5 RK3588 Python](https://github.com/cluangar/YOLOv5-RK3588-Python) - Modify Code From rknn-toolkit2.
 - [RKNN multi threaded](https://github.com/leafqycc/rknn-multi-threaded) - Use multi-threaded asynchronous operation rknn model.
+- [ubuntu-rockchip](https://github.com/Joshua-Riek/ubuntu-rockchip/tree/main) - Ubuntu 22.04 for Rockchip RK3588 Devices
 
 ## Resources
 
@@ -46,7 +47,7 @@ RK3588 is the flagship 8K SoC chip released by  [Rockchip](https://www.rock-chip
 - [ITOP](http://www.topeetboard.com/sydymfl/Product/iTOP-3588.html) - A development board based on RK3588 chip, providing complete hardware interfaces and software support.
 - [Fire-Fly](https://www.t-firefly.com/doc/download/164.html) - A development board based on RK3588 chip, providing complete hardware interfaces and software support.
 
-
+- [Orange Pi](http://www.orangepi.cn/) - Orange Pi .
 
 ## Contribute 🤝
 
