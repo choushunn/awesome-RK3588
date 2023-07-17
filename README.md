@@ -4,10 +4,10 @@ English | [简体中文](README_CN.md)
 
 [//]: # ([<img src="RK3588-logo.svg" align="right" width="100">]&#40;https://electronjs.org&#41;)
 
-> Useful resources for developing with the RK3588.
+> Useful resources for developing with the RK3588.:rocket:
 
 
-RK3588 is a chip released by [Rockchip](https://www.rock-chips.com/a/en/), which is mainly used in smart cockpits and ADAS products in the field of smart cars.
+RK3588 is a chip released by [Rockchip](https://www.rock-chips.com/a/en/), which is mainly used in smart cockpits and ADAS products in the field of smart cars. :tada:
 
 ## Contents
 - [RKNN](#RKNN)

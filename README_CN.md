@@ -4,10 +4,10 @@
 
 [//]: # ([<img src="RK3588-logo.svg" align="right" width="100">]&#40;https://electronjs.org&#41;)
 
-> 项目收集了使用 RK3588 进行开发的有用资源。
+> 项目收集了使用 RK3588 进行开发的有用资源。:rocket:
 
 
-RK3588是[Rockchip](https://www.rock-chips.com/a/en/)发布的一款高性能芯片，主要应用于智能汽车领域的智能座舱和ADAS产品。
+RK3588是[Rockchip](https://www.rock-chips.com/a/en/)发布的一款高性能芯片，主要应用于智能汽车领域的智能座舱和ADAS产品。 :tada:
 
 ## Contents
 - [RKNN](#RKNN)
