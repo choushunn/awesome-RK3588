@@ -1,3 +1,5 @@
+[English](README_EN.md) | 简体中文
+
 # Awesome RK3588 | [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [//]: # ([<img src="RK3588-logo.svg" align="right" width="100">]&#40;https://electronjs.org&#41;)
