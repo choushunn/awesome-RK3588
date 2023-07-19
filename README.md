@@ -3,9 +3,10 @@ English | [简体中文](README_CN.md)
 
 # Awesome RK3588 | [![Awesome ↗](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://www.rock-chips.com/templets/new_2014_9/images//logo.png" align="right" width="100">](https://www.rock-chips.com/)
 
 ## Introduction
+
+[<img src="https://www.rock-chips.com/templets/new_2014_9/images//logo.png" align="right" width="100">](https://www.rock-chips.com/)
 
 RK3588 is the flagship 8K SoC chip released by [Rockchip ↗](https://www.rock-chips.com/a/en/), which adopts ARM architecture and is mainly used for PCs, edge computing devices, personal mobile Internet devices, and other digital multimedia applications. RK3588 integrates four Cortex-A76 cores and four Cortex-A55 cores, as well as a separate NEON coprocessor, supporting 8K video codec and decoding.
 
