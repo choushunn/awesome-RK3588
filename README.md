@@ -34,6 +34,7 @@ RK3588 is the flagship 8K SoC chip released by  [Rockchip](https://www.rock-chip
 - [Yolov5 RK3588 Python](https://github.com/cluangar/YOLOv5-RK3588-Python) - Modify Code From rknn-toolkit2.
 - [RKNN multi threaded](https://github.com/leafqycc/rknn-multi-threaded) - Use multi-threaded asynchronous operation rknn model.
 - [ubuntu-rockchip](https://github.com/Joshua-Riek/ubuntu-rockchip/tree/main) - Ubuntu 22.04 for Rockchip RK3588 Devices
+- [buildroot-rk3588](https://github.com/Military-Vehicle-Detection/buildroot-rk3588)- for Buildroot build for ROCK 5B based on RK3588 CPU
 
 ## Resources
 
