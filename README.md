@@ -14,13 +14,19 @@ RK3588 is the flagship 8K SoC chip released by [Rockchip ↗](https://www.rock-c
 
 ## Contents
 
+- [Official Resources](#official-resources)
 - [RKNN](#rknn)
 - [Projects](#projects)
-- [Official Resources](#official-resources)
-  - [Development Boards](#development-boards)
+- [Development Boards](#development-boards)
 - [Documentation](#documentation)
 - [Tools](#tools)
 - [Sample Code](#sample-code)
+
+## Official Resources
+
+- [Rockchip-Linux ↗](https://github.com/rockchip-linux) - The official Rockchip Linux repository on GitHub.
+- [RKNPU2 ↗](https://github.com/rockchip-linux/rknpu2) - The official repository for the Rockchip NPU interface.
+- [RKNN-Toolkit2 ↗](https://github.com/rockchip-linux/rknn-toolkit2) - The official software development kit for performing model conversion, inference, and performance evaluation on the Rockchip NPU.
 
 ## RKNN
 
@@ -35,13 +41,7 @@ RK3588 is the flagship 8K SoC chip released by [Rockchip ↗](https://www.rock-c
 - [ubuntu-rockchip ↗](https://github.com/Joshua-Riek/ubuntu-rockchip/tree/main) - Ubuntu 22.04 for Rockchip RK3588 devices.
 - [buildroot-rk3588 ↗](https://github.com/Military-Vehicle-Detection/buildroot-rk3588)- Buildroot build for ROCK 5B based on RK3588 CPU.
 
-## Official Resources
-
-- [Rockchip-Linux ↗](https://github.com/rockchip-linux) - The official Rockchip Linux repository on GitHub.
-- [RKNPU2 ↗](https://github.com/rockchip-linux/rknpu2) - The official repository for the Rockchip NPU interface.
-- [RKNN-Toolkit2 ↗](https://github.com/rockchip-linux/rknn-toolkit2) - The official software development kit for performing model conversion, inference, and performance evaluation on the Rockchip NPU.
-
-### Development Boards
+## Development Boards
 
 - [ITOP ↗](http://www.topeetboard.com/sydymfl/Product/iTOP-3588.html) - A development board based on the RK3588 chip, providing complete hardware interfaces and software support.
 - [Fire-Fly ↗](https://www.t-firefly.com/doc/download/164.html) - A development board based on the RK3588 chip, providing complete hardware interfaces and software support.
@@ -59,6 +59,8 @@ RK3588 is the flagship 8K SoC chip released by [Rockchip ↗](https://www.rock-c
 ## Sample Code
 
 - [RKNN Examples ↗](https://github.com/rockchip-linux/rknn-toolkit2/tree/master/examples) - Official examples of how to use the RKNN-Toolkit2 to perform model conversion, inference, and evaluation on the Rockchip NPU.
+
+---
 
 ## Contribute 🤝
 
