@@ -22,4 +22,4 @@ When contributing to the RK3588 project, please ensure that you adhere to the fo
 - Thank you for your suggestion!
 
 **Updating your PR**
-A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. If you're not sure how to do that, [here ↗](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-your-pull-request/changing-the-stage-of-a-pull-request) is a guide on the different ways you can update your PR so that we can merge it.
+A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. If you're not sure how to do that, [here ↗](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests) is a guide on the different ways you can update your PR so that we can merge it.

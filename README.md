@@ -64,7 +64,7 @@ RK3588 is the flagship 8K SoC chip released by [Rockchip ↗](https://www.rock-c
 
 ## Contribute 🤝
 
-Got a pull request? Open it, and we'll review it as soon as possible. If you have any suggestions or find any bugs and feel free to bring your fresh ideas to the table!
+Got a pull request? Open it, and we'll review it as soon as possible. If you have any suggestions or find any bugs and feel free to bring your fresh ideas to the table! [Contribution Guidelines](contributing.md)
 
 - [Open Issues](https://github.com/choushunn/awesome-RK3588/issues)
 - [Open Pull Requests](https://github.com/choushunn/awesome-RK3588/pulls)
