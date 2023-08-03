@@ -51,6 +51,7 @@ RK3588 is the flagship 8K SoC chip released by [Rockchip ↗](https://www.rock-c
 
 - [RK3588 Datasheet ↗](https://www.rock-chips.com/uploads/pdf/2022.8.26/191/RK3588%20Brief%20Datasheet.pdf) - The official datasheet for the RK3588.
 - [RKNN User Guide ↗](https://github.com/rockchip-linux/rknn-toolkit2/tree/master/doc) - The official user guide for the Rockchip NPU interface.
+- [iTOP-RK3588 Development Board Specification↗](http://topeetboard.com/sydymfl/dwon/iTOP3588%E5%BC%80%E5%8F%91%E6%9D%BF%E8%A7%84%E6%A0%BC%E4%B9%A6.pdf) - Detailed parameters of this development board.
 
 ## Tools
 
@@ -59,6 +60,10 @@ RK3588 is the flagship 8K SoC chip released by [Rockchip ↗](https://www.rock-c
 ## Sample Code
 
 - [RKNN Examples ↗](https://github.com/rockchip-linux/rknn-toolkit2/tree/master/examples) - Official examples of how to use the RKNN-Toolkit2 to perform model conversion, inference, and evaluation on the Rockchip NPU.
+
+## Forum
+
+- [iTOP-RK3588↗](http://bbs.topeetboard.com/forum.php?mod=forumdisplay&fid=55) - Beijing Xunwei iTOP-RK3588 Development Board Technical Discussion Zone.
 
 ---
 

@@ -48,7 +48,7 @@ RK3588是由[Rockchip ↗](https://www.rock-chips.com/a/en/)发布的旗舰8K So
 
 - [RK3588数据手册 ↗](https://www.rock-chips.com/uploads/pdf/2022.8.26/191/RK3588%20Brief%20Datasheet.pdf) - RK3588的官方数据手册。
 - [RKNN用户指南 ↗](https://github.com/rockchip-linux/rknn-toolkit2/tree/master/doc) - Rockchip NPU接口的官方用户指南。
-- [iTOP-RK3588开发板规格书↗](http://topeetboard.com/sydymfl/dwon/iTOP3588%E5%BC%80%E5%8F%91%E6%9D%BF%E8%A7%84%E6%A0%BC%E4%B9%A6.pdf)
+- [iTOP-RK3588开发板规格书↗](http://topeetboard.com/sydymfl/dwon/iTOP3588%E5%BC%80%E5%8F%91%E6%9D%BF%E8%A7%84%E6%A0%BC%E4%B9%A6.pdf) - 此款开发板的各项详细参数
 
 ## 工具
 
