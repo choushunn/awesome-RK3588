@@ -24,6 +24,8 @@ RK3588是由[Rockchip ↗](https://www.rock-chips.com/a/en/)发布的旗舰8K So
 - [Rockchip-Linux ↗](https://github.com/rockchip-linux) - GitHub上的Rockchip Linux官方仓库。
 - [RKNPU2 ↗](https://github.com/rockchip-linux/rknpu2) - Rockchip NPU接口的官方仓库。
 - [RKNN-Toolkit2 ↗](https://github.com/rockchip-linux/rknn-toolkit2) - 在Rockchip NPU上执行模型转换、推理和性能评估的官方软件开发工具包。
+- [RK3588 Linux SDK 开发及产品应用介绍↗](https://www.bilibili.com/video/BV1kV4y1W7X5) - RK3588 Linux SDK 开发及产品应用介绍
+- [RKNPU2 从入门到实践↗](https://www.bilibili.com/video/BV1Kj411D78q) - RKNPU2 从入门到实践（基于RK3588和RK3568）
 
 ## RKNN
 
