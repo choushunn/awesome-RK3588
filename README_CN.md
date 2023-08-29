@@ -5,7 +5,7 @@
 ## 简介
 [<img src="https://www.rock-chips.com/templets/new_2014_9/images//logo.png" align="right" width="100">](https://www.rock-chips.com/)
 
-RK3588 是由[Rockchip ↗](https://www.rock-chips.com/a/en/)发布的旗舰 8K SoC 芯片，采用 ARM 架构，主要用于 PC、边缘计算设备、个人移动互联网设备和其他数字多媒体应用。RK3588 集成了四个 Cortex-A76 核心和四个 Cortex-A55 核心，以及一个独立的 NEON 协处理器，支持 8K 视频编解码和解码。
+RK3588 是由 [Rockchip ↗](https://www.rock-chips.com/a/en/)发布的旗舰 8K SoC 芯片，采用 ARM 架构，主要用于 PC、边缘计算设备、个人移动互联网设备和其他数字多媒体应用。RK3588 集成了四个 Cortex-A76 核心和四个 Cortex-A55 核心，以及一个独立的 NEON 协处理器，支持 8K 视频编解码和解码。
 
 > 本仓库包含了一个为使用 RK3588 开发提供有用资源的列表。:rocket:
 
