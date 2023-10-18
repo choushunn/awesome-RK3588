@@ -44,7 +44,7 @@ RK3588 is the flagship 8K SoC chip released by [Rockchip ↗](https://www.rock-c
 - [RKNN multi threaded ↗](https://github.com/leafqycc/rknn-multi-threaded) - A project for running RKNN models on multiple threads for improved performance.
 - [ubuntu-rockchip ↗](https://github.com/Joshua-Riek/ubuntu-rockchip/tree/main) - Ubuntu 22.04 for Rockchip RK3588 devices.
 - [buildroot-rk3588 ↗](https://github.com/Military-Vehicle-Detection/buildroot-rk3588)- Buildroot build for ROCK 5B based on RK3588 CPU.
-- [[NixOS running on RK3588/RK3588s](https://github.com/ryan4yin/nixos-rk3588#nixos-running-on-rk3588rk3588s) ↗](https://github.com/ryan4yin/nixos-rk3588)- Minimal NixOS running on RK3588/RK3588s based SBC(Orange Pi 5 Plus, Orange Pi 5, Rock 5A)
+- [NixOS running on RK3588/RK3588s ↗](https://github.com/ryan4yin/nixos-rk3588)- Minimal NixOS running on RK3588/RK3588s based SBC(Orange Pi 5 Plus, Orange Pi 5, Rock 5A)
 
 ## Development Boards
 

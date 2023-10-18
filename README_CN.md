@@ -34,20 +34,12 @@ RK3588 是由 [Rockchip ↗](https://www.rock-chips.com/a/en/)发布的旗舰 8K
 
 ## 项目
 
-<<<<<<< HEAD
 - [Yolov5 DeepSORT ↗](https://github.com/Zhou-sx/yolov5_Deepsort_rknn) - 使用YoloV5和DeepSORT在RK3588/RK3399pro上跟踪车辆和人的项目。
 - [Yolov5 RK3588 Python ↗](https://github.com/cluangar/YOLOv5-RK3588-Python) - 使用rknn-toolkit2修改代码在RK3588上运行YoloV5的项目。
 - [RKNN多线程 ↗](https://github.com/leafqycc/rknn-multi-threaded) - 一个在多线程上运行RKNN模型以提高性能的项目。
 - [ubuntu-rockchip ↗](https://github.com/Joshua-Riek/ubuntu-rockchip/tree/main) - 适用于Rockchip RK3588设备的Ubuntu 22.04。
 - [buildroot-rk3588 ↗](https://github.com/Military-Vehicle-Detection/buildroot-rk3588) - 基于RK3588 CPU的ROCK 5B的Buildroot构建。
-- [[NixOS running on RK3588/RK3588s](https://github.com/ryan4yin/nixos-rk3588#nixos-running-on-rk3588rk3588s) ↗](https://github.com/ryan4yin/nixos-rk3588)- 在基于 RK3588/RK3588s 的 SBC（Orange Pi 5 Plus、Orange Pi 5、Rock 5A）上运行的Minimal  NixOS.
-=======
-- [Yolov5 DeepSORT ↗](https://github.com/Zhou-sx/yolov5_Deepsort_rknn) - 使用 YoloV5 和 DeepSORT 在 RK3588/RK3399pro 上跟踪车辆和人的项目。
-- [Yolov5 RK3588 Python ↗](https://github.com/cluangar/YOLOv5-RK3588-Python) - 使用 rknn-toolkit2 修改代码在 RK3588 上运行 YoloV5 的项目。
-- [RKNN多线程 ↗](https://github.com/leafqycc/rknn-multi-threaded) - 一个在多线程上运行 RKNN 模型以提高性能的项目。
-- [ubuntu-rockchip ↗](https://github.com/Joshua-Riek/ubuntu-rockchip/tree/main) - 适用于 Rockchip RK3588 设备的 Ubuntu 22.04。
-- [buildroot-rk3588 ↗](https://github.com/Military-Vehicle-Detection/buildroot-rk3588) - 基于 RK3588 CPU 的ROCK 5B 的 Buildroot 构建。
->>>>>>> origin/develop
+- [NixOS running on RK3588/RK3588s ↗](https://github.com/ryan4yin/nixos-rk3588) - 在基于 RK3588/RK3588s 的 SBC（Orange Pi 5 Plus、Orange Pi 5、Rock 5A）上运行的Minimal  NixOS.
 
 ## 开发板
 
