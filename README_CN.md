@@ -39,6 +39,7 @@ RK3588是由[Rockchip ↗](https://www.rock-chips.com/a/en/)发布的旗舰8K So
 - [RKNN多线程 ↗](https://github.com/leafqycc/rknn-multi-threaded) - 一个在多线程上运行RKNN模型以提高性能的项目。
 - [ubuntu-rockchip ↗](https://github.com/Joshua-Riek/ubuntu-rockchip/tree/main) - 适用于Rockchip RK3588设备的Ubuntu 22.04。
 - [buildroot-rk3588 ↗](https://github.com/Military-Vehicle-Detection/buildroot-rk3588) - 基于RK3588 CPU的ROCK 5B的Buildroot构建。
+- [[NixOS running on RK3588/RK3588s](https://github.com/ryan4yin/nixos-rk3588#nixos-running-on-rk3588rk3588s) ↗](https://github.com/ryan4yin/nixos-rk3588)- 在基于 RK3588/RK3588s 的 SBC（Orange Pi 5 Plus、Orange Pi 5、Rock 5A）上运行的Minimal  NixOS.
 
 ## 开发板
 
