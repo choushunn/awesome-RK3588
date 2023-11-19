@@ -26,6 +26,8 @@ RK3588 是由 [Rockchip ↗](https://www.rock-chips.com/a/en/)发布的旗舰 8K
 - [RKNN-Toolkit2 ↗](https://github.com/rockchip-linux/rknn-toolkit2) - 在 Rockchip NPU 上执行模型转换、推理和性能评估的官方软件开发工具包。
 - [RK3588 Linux SDK 开发及产品应用介绍↗](https://www.bilibili.com/video/BV1kV4y1W7X5) - RK3588 Linux SDK 开发及产品应用介绍
 - [RKNPU2 从入门到实践↗](https://www.bilibili.com/video/BV1Kj411D78q) - RKNPU2 从入门到实践（基于 RK3588 和 RK3568）
+- [RK3588 Linux SDK开发及产品应用介绍↗](https://www.bilibili.com/video/BV1kV4y1W7X5) - RK3588 Linux SDK开发及产品应用介绍
+- [RKNPU2从入门到实践（基于RK3588和RK3568）↗](https://www.bilibili.com/video/BV1Kj411D78q) - RKNPU2从入门到实践（基于RK3588和RK3568）
 
 ## RKNN
 
@@ -46,6 +48,7 @@ RK3588 是由 [Rockchip ↗](https://www.rock-chips.com/a/en/)发布的旗舰 8K
 - [ITOP ↗](http://www.topeetboard.com/sydymfl/Product/iTOP-3588.html) - 基于 RK3588 芯片的开发板，提供完整的硬件接口和软件支持。
 - [Fire-Fly ↗](https://www.t-firefly.com/doc/download/164.html) - 基于 RK3588 芯片的开发板，提供完整的硬件接口和软件支持。
 - [Orange Pi ↗](http://www.orangepi.cn/) - Orange Pi。
+- [YourLand Laptop ↗](https://nanocode.cn/#/yl/) - 基于RK3588和Linux的笔记本电脑，专为软件开发人员设计，具有丰富的开发工具和JTAG调试支持。
 
 ## 文档
 
