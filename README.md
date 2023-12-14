@@ -62,6 +62,7 @@ RK3588 is the flagship 8K SoC chip released by [Rockchip ↗](https://www.rock-c
 ## Tools
 
 - [RKNN-Toolkit2 ↗](https://github.com/rockchip-linux/rknn-toolkit2) - The official software development kit for performing model conversion, inference, and performance evaluation on the Rockchip NPU.
+- [librga ↗](https://github.com/airockchip/librga) - Raster Graphic Acceleration Unit. It is an independent 2D hardware accelerator that can be used to accelerate point/line drawing and perform common 2D graphics operations such as image scaling, rotation, bitBlt, and alpha blending.
 
 ## Sample Code
 
