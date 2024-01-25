@@ -41,7 +41,8 @@ RK3588 是由 [Rockchip ↗](https://www.rock-chips.com/a/en/)发布的旗舰 8K
 - [RKNN多线程 ↗](https://github.com/leafqycc/rknn-multi-threaded) - 一个在多线程上运行RKNN模型以提高性能的项目。
 - [ubuntu-rockchip ↗](https://github.com/Joshua-Riek/ubuntu-rockchip/tree/main) - 适用于Rockchip RK3588设备的Ubuntu 22.04。
 - [buildroot-rk3588 ↗](https://github.com/Military-Vehicle-Detection/buildroot-rk3588) - 基于RK3588 CPU的ROCK 5B的Buildroot构建。
-- [NixOS running on RK3588/RK3588s ↗](https://github.com/ryan4yin/nixos-rk3588) - 在基于 RK3588/RK3588s 的 SBC（Orange Pi 5 Plus、Orange Pi 5、Rock 5A）上运行的Minimal  NixOS.
+- [NixOS running on RK3588/RK3588s ↗](https://github.com/ryan4yin/nixos-rk3588) - 基于 RK3588/RK3588s 的 SBC（Orange Pi 5 Plus、Orange Pi 5、Rock 5A）上运行的Minimal  NixOS.
+- [Rockchip-Windows-Drivers ↗](https://github.com/worproject/Rockchip-Windows-Drivers)- 适用于 RK35xx 平台的 Windows on Arm 驱动程序.)
 
 ## 开发板
 
@@ -78,3 +79,7 @@ RK3588 是由 [Rockchip ↗](https://www.rock-chips.com/a/en/)发布的旗舰 8K
 - [Open Issues](https://github.com/choushunn/awesome-RK3588/issues)
 - [Open Pull Requests](https://github.com/choushunn/awesome-RK3588/pulls)
 - [Open Discussions](https://github.com/choushunn/awesome-RK3588/discussions)
+
+感谢所有代码贡献者。 [[Contribute](contributing.md)].
+
+<a href="https://github.com/choushunn/awesome-RK3588/graphs/contributors"><img src="https://contrib.rocks/image?repo=choushunn/awesome-RK3588&max=200&columns=24" width=850px /></a>

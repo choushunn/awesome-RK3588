@@ -45,6 +45,8 @@ RK3588 is the flagship 8K SoC chip released by [Rockchip ↗](https://www.rock-c
 - [ubuntu-rockchip ↗](https://github.com/Joshua-Riek/ubuntu-rockchip/tree/main) - Ubuntu 22.04 for Rockchip RK3588 devices.
 - [buildroot-rk3588 ↗](https://github.com/Military-Vehicle-Detection/buildroot-rk3588)- Buildroot build for ROCK 5B based on RK3588 CPU.
 - [NixOS running on RK3588/RK3588s ↗](https://github.com/ryan4yin/nixos-rk3588)- Minimal NixOS running on RK3588/RK3588s based SBC(Orange Pi 5 Plus, Orange Pi 5, Rock 5A)
+- [NixOS running on RK3588/RK3588s ↗](https://github.com/ryan4yin/nixos-rk3588)- Minimal NixOS running on RK3588/RK3588s based SBC(Orange Pi 5 Plus, Orange Pi 5, Rock 5A)
+- [Rockchip-Windows-Drivers ↗](https://github.com/worproject/Rockchip-Windows-Drivers)- Windows on Arm drivers for RK35xx platforms.)
 
 ## Development Boards
 
@@ -82,3 +84,6 @@ Got a pull request? Open it, and we'll review it as soon as possible. If you hav
 - [Open Pull Requests](https://github.com/choushunn/awesome-RK3588/pulls)
 - [Open Discussions](https://github.com/choushunn/awesome-RK3588/discussions)
 
+This project exists thanks to all the people who contribute. [[Contribute](contributing.md)].
+
+<a href="https://github.com/choushunn/awesome-RK3588/graphs/contributors"><img src="https://contrib.rocks/image?repo=choushunn/awesome-RK3588&max=200&columns=24" width=850px /></a>
