@@ -25,7 +25,7 @@ RK3588 是由 [Rockchip ↗](https://www.rock-chips.com/a/en/)发布的旗舰 8K
 - [RKNPU2 ↗](https://github.com/rockchip-linux/rknpu2) - Rockchip NPU 接口的官方仓库。
 - [RKNN-Toolkit2 ↗](https://github.com/rockchip-linux/rknn-toolkit2) - 在 Rockchip NPU 上执行模型转换、推理和性能评估的官方软件开发工具包。
 - [librga ↗](https://github.com/airockchip/librga) - RGA (Raster Graphic Acceleration Unit)是一个独立的2D硬件加速器，可用于加速点/线绘制，执行图像缩放、旋转、bitBlt、alpha混合等常见的2D图形操作。
-- [RKLLM ↗] (https://github.com/airockchip/rknn-llm ) - RKLLM软件栈可以帮助用户快速将AI模型部署到瑞芯微的芯片上。
+- [RKLLM ↗](https://github.com/airockchip/rknn-llm ) - RKLLM软件栈可以帮助用户快速将AI模型部署到瑞芯微的芯片上。
 - [RK3588 Linux SDK 开发及产品应用介绍↗](https://www.bilibili.com/video/BV1kV4y1W7X5) - RK3588 Linux SDK 开发及产品应用介绍
 - [RKNPU2 从入门到实践↗](https://www.bilibili.com/video/BV1Kj411D78q) - RKNPU2 从入门到实践（基于 RK3588 和 RK3568）
 - [RK3588 Linux SDK开发及产品应用介绍↗](https://www.bilibili.com/video/BV1kV4y1W7X5) - RK3588 Linux SDK开发及产品应用介绍
@@ -45,6 +45,7 @@ RK3588 是由 [Rockchip ↗](https://www.rock-chips.com/a/en/)发布的旗舰 8K
 - [buildroot-rk3588 ↗](https://github.com/Military-Vehicle-Detection/buildroot-rk3588) - 基于RK3588 CPU的ROCK 5B的Buildroot构建。
 - [NixOS running on RK3588/RK3588s ↗](https://github.com/ryan4yin/nixos-rk3588) - 基于 RK3588/RK3588s 的 SBC（Orange Pi 5 Plus、Orange Pi 5、Rock 5A）上运行的Minimal  NixOS.
 - [Rockchip-Windows-Drivers ↗](https://github.com/worproject/Rockchip-Windows-Drivers)- 适用于 RK35xx 平台的 Windows on Arm 驱动程序.)
+- [yolov8_rknn_Cplusplus ↗](https://github.com/cqu20160901/yolov8_rknn_Cplusplus)- YoloV8 rknn C++.
 
 ## 开发板
 

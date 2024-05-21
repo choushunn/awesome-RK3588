@@ -28,7 +28,7 @@ RK3588 is the flagship 8K SoC chip released by [Rockchip ↗](https://www.rock-c
 - [RKNPU2 ↗](https://github.com/rockchip-linux/rknpu2) - The official repository for the Rockchip NPU interface.
 - [RKNN-Toolkit2 ↗](https://github.com/rockchip-linux/rknn-toolkit2) - The official software development kit for performing model conversion, inference, and performance evaluation on the Rockchip NPU.
 - [librga ↗](https://github.com/airockchip/librga) - RGA (Raster Graphic Acceleration Unit) is a standalone 2D hardware accelerator designed to accelerate point/line drawing, perform image scaling, rotation, bitBlt, alpha blending, and other common 2D graphic operations. 
-- [RKLLM ↗] (https://github.com/airockchip/rknn-llm ) - RKLLM software stack can help users to quickly deploy AI models to Rockchip chips. 
+- [RKLLM ↗](https://github.com/airockchip/rknn-llm ) - RKLLM software stack can help users to quickly deploy AI models to Rockchip chips. 
 - [RK3588 Linux SDK 开发及产品应用介绍↗](https://www.bilibili.com/video/BV1kV4y1W7X5) - RK3588 Linux SDK development and product application introduction
 - [RKNPU2 从入门到实践↗](https://www.bilibili.com/video/BV1kV4y1W7X5) - RKNPU2 from entry to practice (based on RK3588 and RK3568)
 - [RK3588 Linux SDK Development and Product Application Introduction↗](https://www.bilibili.com/video/BV1kV4y1W7X5) - RK3588 Linux SDK Development and Product Application Introduction
@@ -49,6 +49,8 @@ RK3588 is the flagship 8K SoC chip released by [Rockchip ↗](https://www.rock-c
 - [NixOS running on RK3588/RK3588s ↗](https://github.com/ryan4yin/nixos-rk3588)- Minimal NixOS running on RK3588/RK3588s based SBC(Orange Pi 5 Plus, Orange Pi 5, Rock 5A)
 - [NixOS running on RK3588/RK3588s ↗](https://github.com/ryan4yin/nixos-rk3588)- Minimal NixOS running on RK3588/RK3588s based SBC(Orange Pi 5 Plus, Orange Pi 5, Rock 5A)
 - [Rockchip-Windows-Drivers ↗](https://github.com/worproject/Rockchip-Windows-Drivers)- Windows on Arm drivers for RK35xx platforms.)
+- [yolov8_rknn_Cplusplus ↗](https://github.com/cqu20160901/yolov8_rknn_Cplusplus)- YoloV8 rknn C++.
+
 
 ## Development Boards
 
