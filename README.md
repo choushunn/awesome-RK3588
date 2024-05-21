@@ -27,6 +27,8 @@ RK3588 is the flagship 8K SoC chip released by [Rockchip ↗](https://www.rock-c
 - [Rockchip-Linux ↗](https://github.com/rockchip-linux) - The official Rockchip Linux repository on GitHub.
 - [RKNPU2 ↗](https://github.com/rockchip-linux/rknpu2) - The official repository for the Rockchip NPU interface.
 - [RKNN-Toolkit2 ↗](https://github.com/rockchip-linux/rknn-toolkit2) - The official software development kit for performing model conversion, inference, and performance evaluation on the Rockchip NPU.
+- [librga ↗](https://github.com/airockchip/librga) - RGA (Raster Graphic Acceleration Unit) is a standalone 2D hardware accelerator designed to accelerate point/line drawing, perform image scaling, rotation, bitBlt, alpha blending, and other common 2D graphic operations. 
+- [RKLLM ↗] (https://github.com/airockchip/rknn-llm ) - RKLLM software stack can help users to quickly deploy AI models to Rockchip chips. 
 - [RK3588 Linux SDK 开发及产品应用介绍↗](https://www.bilibili.com/video/BV1kV4y1W7X5) - RK3588 Linux SDK development and product application introduction
 - [RKNPU2 从入门到实践↗](https://www.bilibili.com/video/BV1kV4y1W7X5) - RKNPU2 from entry to practice (based on RK3588 and RK3568)
 - [RK3588 Linux SDK Development and Product Application Introduction↗](https://www.bilibili.com/video/BV1kV4y1W7X5) - RK3588 Linux SDK Development and Product Application Introduction

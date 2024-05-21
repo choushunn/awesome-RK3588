@@ -24,6 +24,8 @@ RK3588 是由 [Rockchip ↗](https://www.rock-chips.com/a/en/)发布的旗舰 8K
 - [Rockchip-Linux ↗](https://github.com/rockchip-linux) - GitHub 上的 Rockchip Linux 官方仓库。
 - [RKNPU2 ↗](https://github.com/rockchip-linux/rknpu2) - Rockchip NPU 接口的官方仓库。
 - [RKNN-Toolkit2 ↗](https://github.com/rockchip-linux/rknn-toolkit2) - 在 Rockchip NPU 上执行模型转换、推理和性能评估的官方软件开发工具包。
+- [librga ↗](https://github.com/airockchip/librga) - RGA (Raster Graphic Acceleration Unit)是一个独立的2D硬件加速器，可用于加速点/线绘制，执行图像缩放、旋转、bitBlt、alpha混合等常见的2D图形操作。
+- [RKLLM ↗] (https://github.com/airockchip/rknn-llm ) - RKLLM软件栈可以帮助用户快速将AI模型部署到瑞芯微的芯片上。
 - [RK3588 Linux SDK 开发及产品应用介绍↗](https://www.bilibili.com/video/BV1kV4y1W7X5) - RK3588 Linux SDK 开发及产品应用介绍
 - [RKNPU2 从入门到实践↗](https://www.bilibili.com/video/BV1Kj411D78q) - RKNPU2 从入门到实践（基于 RK3588 和 RK3568）
 - [RK3588 Linux SDK开发及产品应用介绍↗](https://www.bilibili.com/video/BV1kV4y1W7X5) - RK3588 Linux SDK开发及产品应用介绍
