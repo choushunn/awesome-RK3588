@@ -70,7 +70,7 @@ RK3588 是由 [Rockchip ↗](https://www.rock-chips.com/a/en/)发布的旗舰 8K
 
 ## 示例代码
 
-1. [RKNN示例 ↗](https://github.com/rockchip-linux/rknn-toolkit2/tree/master/examples) - 使用 RKNN-Toolkit2 执行模型转换、推理和评估的官方示例。
+1. [RKNN示例 ↗](https://github.com/airockchip/rknn-toolkit2/) - 使用 RKNN-Toolkit2 执行模型转换、推理和评估的官方示例。
 
 ## 论坛
 
