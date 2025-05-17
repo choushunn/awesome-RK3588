@@ -75,7 +75,7 @@ RK3588 is the flagship 8K SoC chip released by [Rockchip ↗](https://www.rock-c
 
 ## Sample Code
 
-1. [RKNN Examples ↗](https://github.com/rockchip-linux/rknn-toolkit2/tree/master/examples) - Official examples of how to use the RKNN-Toolkit2 to perform model conversion, inference, and evaluation on the Rockchip NPU.
+1. [RKNN Examples ↗](https://github.com/airockchip/rknn-toolkit2/) - Official examples of how to use the RKNN-Toolkit2 to perform model conversion, inference, and evaluation on the Rockchip NPU.
 
 ## Forum
 
