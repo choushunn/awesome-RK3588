@@ -92,3 +92,17 @@ RK3588 is Rockchip's flagship 8K SoC with quad Cortex-A76, quad Cortex-A55, and 
 ### Chinese
 1. **[iTOP-RK3588 Forum ↗](http://bbs.topeetboard.com/forum.php?mod=forumdisplay&fid=55)** - Beijing Xunwei support
 2. **[LubanCat Community ↗](https://forums.embedfire.com/c/lubancat/21)** - Wildfire Electronics
+
+---
+
+## Contribute 🤝
+
+Got a pull request? Open it, and we'll review it as soon as possible. If you have any suggestions or find any bugs and feel free to bring your fresh ideas to the table! [Contribution Guidelines](contributing.md)
+
+- [Open Issues](https://github.com/choushunn/awesome-RK3588/issues)
+- [Open Pull Requests](https://github.com/choushunn/awesome-RK3588/pulls)
+- [Open Discussions](https://github.com/choushunn/awesome-RK3588/discussions)
+
+This project exists thanks to all the people who contribute. [[Contribute](contributing.md)].
+
+<a href="https://github.com/choushunn/awesome-RK3588/graphs/contributors"><img src="https://contrib.rocks/image?repo=choushunn/awesome-RK3588&max=200&columns=24" width=850px /></a>

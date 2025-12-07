@@ -92,3 +92,17 @@ RK3588是瑞芯微旗舰级8K SoC芯片，配备四核Cortex-A76、四核Cortex-
 ### 中文社区
 1. **[iTOP-RK3588论坛 ↗](http://bbs.topeetboard.com/forum.php?mod=forumdisplay&fid=55)** - 北京迅为技术支持
 2. **[野火LubanCat社区 ↗](https://forums.embedfire.com/c/lubancat/21)** - 野火电子
+
+---
+
+## 贡献 🤝
+
+有提交请求吗？打开它，我们将尽快审查。如果您有任何建议或发现任何错误，请随时提出您的新想法！[贡献指南](contributing.md)
+
+- [Open Issues](https://github.com/choushunn/awesome-RK3588/issues)
+- [Open Pull Requests](https://github.com/choushunn/awesome-RK3588/pulls)
+- [Open Discussions](https://github.com/choushunn/awesome-RK3588/discussions)
+
+感谢所有代码贡献者。 [[Contribute](contributing.md)].
+
+<a href="https://github.com/choushunn/awesome-RK3588/graphs/contributors"><img src="https://contrib.rocks/image?repo=choushunn/awesome-RK3588&max=200&columns=24" width=850px /></a>
