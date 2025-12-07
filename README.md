@@ -1,4 +1,4 @@
-[English](README.md) | 简体中文
+English | [简体中文](README_CN.md)
 
 # Awesome RK3588 | [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
