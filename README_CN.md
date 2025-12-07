@@ -27,7 +27,7 @@ RK3588是瑞芯微旗舰级8K SoC芯片，配备四核Cortex-A76、四核Cortex-
 ## RKNN与AI工具
 ### 核心SDK
 1. **[RKNN-Toolkit2 ↗](https://github.com/airockchip/rknn-toolkit2)** - 模型转换与评估（v2.3.2+）
-2. **[RKNPU2运行时 ↗](https://github.com/rockchip-linux/rknpu2)** - NPU运行时库
+2. **[RKNPU2 Runtime ↗](https://github.com/rockchip-linux/rknpu2)** - NPU运行时库
 3. **[RKNN-Toolkit-Lite2 ↗](https://github.com/airockchip/rknn-toolkit2/tree/master/rknn-toolkit-lite2)** - 设备端Python API
 4. **[librga ↗](https://github.com/airockchip/librga)** - 2D图形加速库
 
