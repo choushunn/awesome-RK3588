@@ -2,7 +2,7 @@ English | [简体中文](README_CN.md)
 
 # Awesome RK3588 | [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[&lt;img src="https://www.rock-chips.com/templets/new_2014_9/images//logo.png" align="right" width="100"&gt;](https://www.rock-chips.com/)
+[<img src="https://www.rock-chips.com/templets/new_2014_9/images//logo.png" align="right" width="100">](https://www.rock-chips.com/)
 
 RK3588是瑞芯微旗舰级8K SoC芯片，配备四核Cortex-A76、四核Cortex-A55及6 TOPS NPU。本列表整理了开发必备资源。:rocket:
 

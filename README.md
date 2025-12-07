@@ -2,7 +2,7 @@
 
 # Awesome RK3588 | [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[&lt;img src="https://www.rock-chips.com/templets/new_2014_9/images//logo.png" align="right" width="100"&gt;](https://www.rock-chips.com/)
+[<img src="https://www.rock-chips.com/templets/new_2014_9/images//logo.png" align="right" width="100">](https://www.rock-chips.com/)
 
 RK3588 is Rockchip's flagship 8K SoC with quad Cortex-A76, quad Cortex-A55, and 6 TOPS NPU. This list curates essential development resources. :rocket:
 
