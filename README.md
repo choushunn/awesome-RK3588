@@ -77,6 +77,7 @@ RK3588 is Rockchip's flagship 8K SoC with quad Cortex-A76, quad Cortex-A55, and 
 1. **[RKDevTool ↗](https://github.com/rockchip-linux/rkdeveloptool)** - Firmware flashing
 2. **[RKNN-Toolkit2 Docker ↗](https://github.com/airockchip/rknn-toolkit2/tree/master/docker)** - Pre-configured environment
 3. **NPU Monitor**: `cat /sys/kernel/debug/rknpu/load`
+4. **[rk-bench ↗](https://github.com/anguoyang/rk-bench)** - Measured RKNN model leaderboard for RK3588 (latency p50/p95, CPU-fallback verdicts, memory) under one frozen protocol, with a zero-dependency tool to reproduce every number
 
 ## Sample Code
 1. **[RKNN Model Zoo ↗](https://github.com/airockchip/rknn_model_zoo)** - 30+ official model demos
