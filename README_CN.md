@@ -76,8 +76,8 @@ RK3588是瑞芯微旗舰级8K SoC芯片，配备四核Cortex-A76、四核Cortex-
 ## 开发工具
 1. **[rk-deploy ↗](https://github.com/anguoyang/rk-deploy)** - 把 RKNN 应用部署为 RK3588 板上的 systemd 服务：版本化打包、舰队批量推送、原子回滚、巡检报告
 2. **[RKDevTool ↗](https://github.com/rockchip-linux/rkdeveloptool)** - 固件烧录工具
-2. **[RKNN-Toolkit2 Docker ↗](https://github.com/airockchip/rknn-toolkit2/tree/master/docker)** - 预配置环境
-3. **NPU监控**: `cat /sys/kernel/debug/rknpu/load`
+3. **[RKNN-Toolkit2 Docker ↗](https://github.com/airockchip/rknn-toolkit2/tree/master/docker)** - 预配置环境
+4. **NPU监控**: `cat /sys/kernel/debug/rknpu/load`
 
 ## 示例代码
 1. **[RKNN Model Zoo ↗](https://github.com/airockchip/rknn_model_zoo)** - 30+官方模型示例
