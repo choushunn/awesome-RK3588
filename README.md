@@ -74,9 +74,10 @@ RK3588 is Rockchip's flagship 8K SoC with quad Cortex-A76, quad Cortex-A55, and 
 2. **[LubanCat Manual ↗](https://doc.embedfire.com/linux/rk3588/quick_start/zh/latest/)** - Best Chinese docs
 
 ## Development Tools
-1. **[RKDevTool ↗](https://github.com/rockchip-linux/rkdeveloptool)** - Firmware flashing
-2. **[RKNN-Toolkit2 Docker ↗](https://github.com/airockchip/rknn-toolkit2/tree/master/docker)** - Pre-configured environment
-3. **NPU Monitor**: `cat /sys/kernel/debug/rknpu/load`
+1. **[rk-deploy ↗](https://github.com/anguoyang/rk-deploy)** - Deploy RKNN apps to RK3588 boards as systemd services: versioned packages, fleet push, atomic rollback, status reports
+2. **[RKDevTool ↗](https://github.com/rockchip-linux/rkdeveloptool)** - Firmware flashing
+3. **[RKNN-Toolkit2 Docker ↗](https://github.com/airockchip/rknn-toolkit2/tree/master/docker)** - Pre-configured environment
+4. **NPU Monitor**: `cat /sys/kernel/debug/rknpu/load`
 
 ## Sample Code
 1. **[RKNN Model Zoo ↗](https://github.com/airockchip/rknn_model_zoo)** - 30+ official model demos
