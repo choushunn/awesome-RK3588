@@ -39,6 +39,7 @@ RK3588 is Rockchip's flagship 8K SoC with quad Cortex-A76, quad Cortex-A55, and 
 *RK3588 supports edge LLM deployment with RKLLM*
 1. **Supported Models**: TinyLlama 1.1B (~10-15 tokens/sec), Qwen2 0.5B, Whisper
 2. **[RKLLM Toolkit ↗](https://github.com/airockchip/rknn-llm)** - Convert and deploy LLMs
+3. **[TZ-LLM](https://github.com/TZ-LLM/tz-llm-ae)** - EuroSys '26 "TZ-LLM: Protecting On-Device Large Language Models with Arm TrustZone"
 
 ## Operating Systems
 1. **[Ubuntu Rockchip ↗](https://github.com/Joshua-Riek/ubuntu-rockchip)** - Ubuntu 22.04/24.04 LTS (recommended)

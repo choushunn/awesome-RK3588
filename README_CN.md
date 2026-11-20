@@ -39,6 +39,7 @@ RK3588是瑞芯微旗舰级8K SoC芯片，配备四核Cortex-A76、四核Cortex-
 *RK3588支持边缘LLM部署，需使用RKLLM栈*
 1. **支持模型**：TinyLlama 1.1B（约10-15 token/秒）、Qwen2 0.5B、Whisper
 2. **[RKLLM Toolkit ↗](https://github.com/airockchip/rknn-llm)** - LLM转换与部署工具
+3. **[TZ-LLM](https://github.com/TZ-LLM/tz-llm-ae)** - EuroSys '26 "TZ-LLM: Protecting On-Device Large Language Models with Arm TrustZone"
 
 ## 操作系统
 1. **[Ubuntu Rockchip ↗](https://github.com/Joshua-Riek/ubuntu-rockchip)** - Ubuntu 22.04/24.04 LTS（推荐）
