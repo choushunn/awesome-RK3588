@@ -68,6 +68,7 @@ RK3588 is Rockchip's flagship 8K SoC with quad Cortex-A76, quad Cortex-A55, and 
 1. **[RK3588 Datasheet ↗](https://www.rock-chips.com/uploads/pdf/2022.8.26/191/RK3588%20Brief%20Datasheet.pdf)** - Official specs (6 TOPS, 8K@60fps)
 2. **[RKNN User Guide ↗](https://github.com/airockchip/rknn-toolkit2/tree/master/doc)** - Conversion & deployment
 3. **[RKNPU2 API Reference ↗](https://github.com/rockchip-linux/rknpu2/blob/master/doc/Rockchip_RKNPU_User_Guide_RKNN_API_V2.0.0.pdf)** - C/C++ API
+4. **[sbc.compare Benchmarks ↗](https://sbc.compare/rockchip-rk3588)** - Benchmarks, specs and prices for multiple boards, all tested in-house on the same harness.
 
 ### Board-Specific
 1. **[Radxa ROCK 5 Docs ↗](https://docs.radxa.com/rock5)** - Excellent English docs
